@@ -1,4 +1,4 @@
-# Bank
+# DBank
 
 Welcome to DBank project using internet computer development community. 
 

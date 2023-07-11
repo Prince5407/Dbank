@@ -1,6 +1,7 @@
 # DBank
 
 Welcome to DBank project using internet computer development community. 
+Dbank is a decentralized web3 application built on the DFINITY Internet Computer platform. It provides users with the ability to top up their transactions and withdraw funds with the added benefit of compound interest.
 
 To get started, you might want to explore the project directory structure and the default configuration file. Working with this project in your development environment will not affect any production deployment or identity tokens.
 
